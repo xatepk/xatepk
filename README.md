@@ -6,7 +6,7 @@
 <img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/460/460771.svg?token=exp=1616351089~hmac=b468970b95929d49d48102fd458452f1" />
 <img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1616351128~hmac=dc7985c26e7a0b466ea4f44b3c8025a7" />
 <img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1616351168~hmac=9526f37f630689d6420aef320d105cb8" />
-<img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/617/617509.svg?token=exp=1616351248~hmac=8bab6866f5d0c9f84731e34296fe0887" />
+<img height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-png-transparent.png" />
 
 👩‍💻 Контакты:<br>
 <img height="10" width="10" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1616351595~hmac=ab37204858a906b8775c5e0e8b36a0bf" /> kkhatya@gmail.com <br>
