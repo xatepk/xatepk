@@ -68,7 +68,7 @@
 
 - Telegram: [@xatepk](https://t.me/xatepk)  
 - Email: kkhatya@gmail.com  
-- LinkedIn: [*[ссылка на профиль]*](https://www.linkedin.com/in/khakhutaishvili-khatya/)  
+- LinkedIn: (https://www.linkedin.com/in/khakhutaishvili-khatya/)  
 
 ---
 
