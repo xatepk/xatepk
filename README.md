@@ -1,21 +1,53 @@
-# Меня зовут Хатия!
+<h1 align="center">Привет! Меня зовут Хатия 👋</h1>
+<p align="center">Frontend-разработчик | React / React Native / TypeScript | Web & Mobile</p>
 
-🧠 Стек:<br>
-<img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/2535/2535518.svg?token=exp=1616350857~hmac=4a607186bdf402f58035f729c20088e5" />
-<img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1616351019~hmac=612a9197da96c3244583d87d5026be4a" />
-<img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/460/460771.svg?token=exp=1616351089~hmac=b468970b95929d49d48102fd458452f1" />
-<img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/1260/1260667.svg?token=exp=1616351128~hmac=dc7985c26e7a0b466ea4f44b3c8025a7" />
-<img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1616351168~hmac=9526f37f630689d6420aef320d105cb8" />
-<img height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-png-transparent.png" />
+---
 
-👩‍💻 Контакты:<br>
-<img height="10" width="10" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1616351595~hmac=ab37204858a906b8775c5e0e8b36a0bf" /> kkhatya@gmail.com <br>
-<img height="10" width="10" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1616351680~hmac=b79d5e0945dc7e731c0f17f10e43ff42" /> xatepk<br>
+### 🧠 Немного обо мне
+
+Я — Frontend-разработчик с 2+ годами опыта в коммерческой разработке. Участвовала в создании и поддержке как веб-, так и мобильных приложений. Мне близок продуктовый подход — люблю, когда интерфейс решает реальные задачи, работает быстро и удобно, а код легко поддерживать.
+
+📍 Город — Санкт-Петербург 
+🎯 Открыта интересным проектам и командам  
+
+---
+
+### 💼 Чем я занимаюсь
+
+- Разрабатываю **мобильные и веб-интерфейсы** на React, React Native и TypeScript  
+- Работаю с **данными, визуализациями, картами, API**  
+- Занимаюсь **поддержкой, рефакторингом и улучшением UX/UI**  
+- Постоянно прокачиваю навыки через pet-проекты и изучение архитектуры приложений  
+
+---
+
+### 🛠 Мой стек
+
+**Frontend:**  
+React / React Native / Redux / Redux Toolkit / RTK Query  
+TypeScript / JavaScript / Vue / jQuery / HTML / CSS / SCSS  
+
+**Инструменты и подходы:**  
+REST API • Git / GitHub • Postman • Responsive UI • Unit Testing (Jest, RTL)  
+Адаптивная верстка • Визуализация данных • Работа с картами и графиками
+
+---
+
+### 🧪 Pet-проекты
+
+- 🏠 [hs-final-project](https://github.com/xatepk/hs-final-project) — Веб-приложение для аренды квартир (с фильтрами, авторизацией, избранным)  
+- 👥 [social-network-frontend](https://github.com/xatepk/social-network-frontend) — Мини-соцсеть с друзьями, постами и новостями
+
+---
+
+### 📬 Как со мной связаться
+
+- Telegram: [@xatepk](https://t.me/xatepk)  
+- Email: *[укажи почту, если хочешь]*  
+- LinkedIn: *[ссылка на профиль]*  
+
+---
+
+> 💬 *Люблю чистый код, понятный UI и команды, где ценится рост, инициатива и уважение к деталям.*
 
 
-
-
-<!---
-xatepk/xatepk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
